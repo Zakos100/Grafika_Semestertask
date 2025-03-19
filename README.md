@@ -5,9 +5,9 @@ A játékmenetet az F1 gombbal lehet leállítani, az Esc gombbal azonnal kilép
 A gyümölcsökre egyaránt hat a gravitáció, illetve oldalirányosan is képes haladni a nehézség érdekében. A játékteret nem tudfjuk elhagyni, ami jelen esetben a szoba.
 Mindenképp kattintani kell az egérrel, mivel a nyomvatartás "csalásnak" számítana.
 
-Irányítás: #
-F1: Help menü #
-WASD: mozgás #
-Egér: Célzás/Kamera mozgatása #
-LMB: Lövés #
-+-: Fényerő állítása #
+Irányítás: \
+F1: Help menü \
+WASD: mozgás \
+Egér: Célzás/Kamera mozgatása \
+LMB: Lövés \
++-: Fényerő állítása \
