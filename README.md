@@ -10,4 +10,4 @@ F1: Help menü \
 WASD: mozgás \
 Egér: Célzás/Kamera mozgatása \
 LMB: Lövés \
-+-: Fényerő állítása \
++-: Fényerő állítása 
